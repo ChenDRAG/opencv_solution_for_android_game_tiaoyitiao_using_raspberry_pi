@@ -11,6 +11,6 @@ Our harware system can achieve 150 - 300 points on normal smartphone, that's a l
 Video is provided here: [Video](https://cloud.tsinghua.edu.cn/d/0d2c79016b41477ab942/)
 
 ## Author
-[Chen Huayu](https://chendrag.github.io/)
+[Chen Huayu](https://chendrag.github.io/)  
 chenhuay17@mails.tsinghua.edu.cn  
 (+86)18811397006  
