@@ -1,0 +1,1 @@
+This folder contains some unsorted code and images used mainly for debugging 
