@@ -1,5 +1,5 @@
-#opencv_solution_for_android_game_tiaoyitiao_using_raspberry_pi
-#基于树莓派的微信跳一跳硬件作弊器
+# opencv_solution_for_android_game_tiaoyitiao_using_raspberry_pi
+# 基于树莓派的微信跳一跳硬件作弊器
 
 ## Introduction
 tiaoyitiao(jump and jump) is once a quite famous game on wechat game platform. Here I have developed a hardware cheater for this android game using opencv and raspberry pi. Specifically, I use a tiny camera to take pictures of the screen, then those pictures will be analysed using opencv on raspberry pi 3b (traditional methods). In the end a single servo and some hot dog( yes! the "hot dog") will be used to simulated human finger to play the game.
